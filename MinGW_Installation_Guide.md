@@ -8,6 +8,8 @@ Open your browser and search:
 
 Or use the official MinGW SourceForge download page:
 
+**Link** : https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download
+
 **Download MinGW Installer**
 
 The file should be:
@@ -82,8 +84,9 @@ Open:
 
 **Edit the system environment variables → Environment Variables**
 
-Under **System variables**, select:
+Under **System variables**, 
 
+select:
 **Path**
 
 Click:
